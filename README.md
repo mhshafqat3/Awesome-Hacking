@@ -97,8 +97,9 @@ Repository | Description
 
 ## Need More ?
 
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Instagram : [@Muhammad-Hammad-Shafqat](https://instagram.com/mhshafqat0.3)
+Follow :
+
+ - Instagram > [@Muhammad Hammad Shafqat](https://instagram.com/mhshafqat0.3)
    
 ## Contributions
 
