@@ -1,8 +1,8 @@
 ![Awesome Hacking](awesome_hacking.jpg)
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
+<b>**A collection of awesome lists for hackers, pentesters & security researchers.**</b>
 
 Your [contributions](contributing.md) are always welcome !
 
@@ -98,9 +98,8 @@ Repository | Description
 ## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
- - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
-
+ - Instagram : [@Muhammad-Hammad-Shafqat](https://instagram.com/mhshafqat0.3)
+   
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
