@@ -1,6 +1,6 @@
 ![Awesome Hacking](awesome_hacking.jpg)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]
+
 
 <b>**A collection of awesome lists for hackers, pentesters & security researchers.**</b>
 
